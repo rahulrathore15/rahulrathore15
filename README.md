@@ -1,7 +1,7 @@
 - 👋 Hi, I am Rahul Rathore
 - 👀 I am interested in coding
 - 🌱 I am currently learning code
-- 📫 How to reach me - by mail -> rahulrathore15877@gmail.com 
+- 📫 How to reach me - by mail -> rahul201072cse@gmail.com
 
 <!---
 rahulrathore15/rahulrathore15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
